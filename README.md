@@ -55,14 +55,17 @@ Aqui compartilho meus projetos, estudos e aprendizados na área de **Segurança 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BrunoMcpherson&theme=monokai&locale=pt_BR" alt="GitHub Streak" /></a>
 ---
 
+---
+
 ## 🎖️ Minhas Badges
 
-![GitHub followers](https://img.shields.io/github/followers/BrunoMcpherson?style=for-the-badge&logo=github&color=black)
+[![GitHub followers](https://img.shields.io/github/followers/BrunoMcpherson?style=for-the-badge&logo=github&color=black)](https://github.com/BrunoMcpherson?tab=followers)
 
-![Certificações](https://img.shields.io/badge/Certificações-Google%20Cybersecurity%20%7C%20Cisco%20Networking-blue?style=for-the-badge&logo=google&logoColor=white)
+[![Certificações](https://img.shields.io/badge/Certificações-Segurança%20da%20Informação%20%7C%20Programação-blue?style=for-the-badge&logo=google&logoColor=white)](https://github.com/BrunoMcpherson/Certificados-Seguranca-da-Informação-Programacao)
 
-![Idiomas](https://img.shields.io/badge/Idiomas-Português%20%7C%20Inglês-green?style=for-the-badge&logo=google-translate&logoColor=white)
+[![Idiomas](https://img.shields.io/badge/Idiomas-Português%20%7C%20Inglês-green?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/BrunoMcpherson/Certificados-Idiomas)
 
+---
 
 
 ⭐ Se curtir algum dos meus projetos, não esqueça de deixar uma estrela!
