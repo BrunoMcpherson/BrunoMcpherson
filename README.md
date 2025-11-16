@@ -6,8 +6,9 @@ Aqui compartilho meus projetos, estudos e aprendizados na área de **Segurança 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Graduando em Ciências da Computação  
-- 📚 Atualmente aprendendo **Segurança da Informação, Python, Auditorias, Ethical Hacking**  
+- 🎓 Graduado em Ciências da Computação
+- 🎓 Pós- Graduando em Segurança da Informação
+- 📚 Atualmente aprendendo **Segurança da Informação, Python, Redes, Ethical Hacking**  
 - 🔐 Interesse em **CyberSecurity e vagas de segurança da informação Júnior**  
 - 🤝 Aberto a colaborações e novos desafios  
 
